@@ -9,6 +9,7 @@ https://github.com/wu-js/ComSoc_elections/blob/master/Statement.pdf
 Jinsong Wu requests your support to sign his petition to be nominated candidate for the position of Vice President Conferences 2020-2021 in the 2019 IEEE Communications Society (ComSoc) Elections.
 
 STATEMENT – Jinsong Wu
+
 Mission: SUSTAINABLE conferences
 
 I have actively involved in various IEEE (ComSoc as well as other Societies) or non-IEEE technical activities such conferences, journal publications, standardizations, IEEE Initiatives, and IEEE technical committees for quite a years. I have witnessed a number of challenging issues in different ComSoc conferences, such as high registration fees, difficulties in obtaining financial sponsors from industries and government organizations, high travel expenses and visa issues to prevent attendees from attending conferences. If I am elected, I will work with other ComSoc members to bravely face and tackle those challenges by:
