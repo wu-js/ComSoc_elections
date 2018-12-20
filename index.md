@@ -14,10 +14,15 @@ Mission: SUSTAINABLE conferences
 I have actively involved in various IEEE (ComSoc as well as other Societies) or non-IEEE technical activities such conferences, journal publications, standardizations, IEEE Initiatives, and IEEE technical committees for quite a years. I have witnessed a number of challenging issues in different ComSoc conferences, such as high registration fees, difficulties in obtaining financial sponsors from industries and government organizations, high travel expenses and visa issues to prevent attendees from attending conferences. If I am elected, I will work with other ComSoc members to bravely face and tackle those challenges by:
 
  SUpporting the analyses and changes of ComSoc conferences and relevant services to provide improved values to ComSoc members, Technical Committees, and Emerging Technical SubCommittees,
+
  Supporting new conferences, including online conferences, to acceleraTe ComSoc responses to new technical challenges,
+
  ENAbling technical committees with more rights in creating IEEE entitled conferences via studying the conference models of other brother IEEE Societies
+
  Supporting ComSoc conferences collaBorating with various IEEE Initiatives , IEEE Societies, and Councils as well as other relevant non-IEEE international organizations, further strengthening globalization activities by incorporating global culture in the ComSoc operations.
+
  Try to provide Lower and differential conferece attendee expenses based on different development levels of different regions or countries
+
  Encouraging industrial participations in ComSoc conferences.
 
 It would be my great honor to humbly serve you while bringing the most values for ALL of you.
