@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Jinsong's Space
 
-You can use the [editor on GitHub](https://github.com/wu-js/ComSoc_elections/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Jinsong Wu is currently an Associate Professor in Department of Electrical Engineering, Universidad de Chile, Santiago, Chile. He is the Founder and Founding Chair of IEEE Technical Committee on Green Communications and Computing (TCGCC), IEEE Communications Society, which was established in 2011 as an official Technical Subcommittee (TSCGCC) and elevated as TCGCC in 2013. He is also the Co-Founder and Founding Vice-Chair of IEEE Technical Committee on Big Data (TCBD) , IEEE Communications Society, which was established in January 2015 as an official Technical Subcommittee (TSCBD) and elevated as TCBD in December 2016. He is elected Vice-Chair, Technical Activities, IEEE Environmental Engineering Initiative (EEI) under IEEE Technical Activities Board (TAB). He is Steering Committee Member and IEEE Communications Society Representative in IEEE Environmental Engineering Initiative under IEEE Technical Activities Board (TAB), starting in 2016. He was the Founder (in 2011) IEEE Green Communications and Computing LinkedIn Group (with over 1430 international members on December 1, 2016). He is Founder and Series Editor of IEEE Series on Green Communication and Computing Networks in the IEEE Communications Magazine.. He is Area Editor of IEEE Transactions on Green Communications and Networking.. He was an Editor of the IEEE J. Select. Areas on Communications (JSAC) Series on Green Communications and Networking. He is Editor of IEEE Communications Surveys & Tutorials, Associate Editor of IEEE Systems Journal, Associate Editor of IEEE Access, He was the leading General Chair in 2013 IEEE International Conference on Green Computing and Communications. He was Technical Program Committee Chair of IEEE Online Conference on Green Communications in both 2012 and 2013. He has opened and established Big Data Track with a very general and wide topic coverage in the flagship conferences of IEEE Communications Society, starting at IEEE Globecom 2016. He was the leading Program Chair of 2016 IEEE International Conference on Big Data Intelligence and Computing (DataCom). He was the Track Co-Chair on Green Communications and Networks, IEEE Vehicular Technology Conference Fall in 2014 and 2017. He was the leading Editor and a co-author of the comprehensive book, entitled " Green Communications: Theoretical Fundamentals, Algorithms, and Applications", published by CRC Press in September 2012. He received his PhD degree from Department of Electrical and Computer Engineering, Queen's Univeristy, Kingston, Canada. He currently is an IEEE Senior Member.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Statement for Petition ComSoc VP Conferences
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wu-js/ComSoc_elections/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
